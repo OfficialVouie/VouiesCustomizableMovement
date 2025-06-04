@@ -2,9 +2,13 @@
 
 # All credits are in here
 Vouie - Made the whole thing
-Mixamo - Model
+
+Mixamo - Model - Animations
+
 ChatGPT - Fixing bugs
+
 Pixabay - Sound Effects
+
 
 # Movement Controls
 Action	Key	Notes
